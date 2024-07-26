@@ -1,4 +1,4 @@
-<h1>Greetings, my name is Chima Nwaogbe!
+<h1>Greetings, My name is Chima Nwaogbe!
 
 <h2>👨‍💻 CyberSecurity Projects</h2>
 
